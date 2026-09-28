@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Giai_đoạn-Phân_tích_%26_thiết_kế-38bdf8?style=flat-square" alt="Giai đoạn: Phân tích và thiết kế">
   <img src="https://img.shields.io/badge/Nhận_đề_tài-19.09.2026-818cf8?style=flat-square" alt="Nhận đề tài 19/09/2026">
   <img src="https://img.shields.io/badge/Thành_viên-3-64748b?style=flat-square" alt="3 thành viên">
 </p>
@@ -13,8 +12,7 @@
   <a href="#-công-nghệ">Công nghệ</a> ·
   <a href="#-tài-liệu-tham-khảo">Tài liệu tham khảo</a> ·
   <a href="#-thành-viên">Thành viên</a> ·
-  <a href="#-repository">Repository</a> ·
-  <a href="#-tiến-độ">Tiến độ</a>
+  <a href="#-repository">Repository</a>
 </p>
 
 ## 📖 Đề tài
@@ -93,16 +91,3 @@ Trọng tâm của đề tài nằm ở nhiệm vụ lập trình và phát tri�
 |---|---|
 | 📄 [**Documents**](https://github.com/DA-EC-System/Documents) | Tài liệu phân tích, thiết kế |
 | 📝 [**Report**](https://github.com/DA-EC-System/Report) | Báo cáo đồ án (LaTeX) |
-
-## 🚦 Tiến độ
-
-| Giai đoạn | Trạng thái |
-|---|---|
-| Khảo sát, phân tích nghiệp vụ, SRS, UI Design System | 🔵 Đang làm |
-| Kiến trúc nền (Base Architecture) | ⚪ Chưa bắt đầu |
-| Phân hệ nghiệp vụ | ⚪ Chưa bắt đầu |
-| Thông báo thời gian thực, Trợ lý AI | ⚪ Chưa bắt đầu |
-| Kiểm thử, Docker, Kubernetes, giám sát | ⚪ Chưa bắt đầu |
-| Nghiệm thu, báo cáo tổng kết | ⚪ Chưa bắt đầu |
-
-<sub>Nhận đề tài 19/09/2026 · Cập nhật 28/09/2026</sub>
