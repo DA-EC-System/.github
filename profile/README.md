@@ -87,7 +87,7 @@ Trọng tâm của đề tài nằm ở nhiệm vụ lập trình và phát tri�
 </tr>
 </table>
 
-## 🗂️ Repository
+## 📦 Repository
 
 | Repo | Nội dung |
 |---|---|
