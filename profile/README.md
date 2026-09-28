@@ -1,10 +1,27 @@
-# DA - EC System
+<p align="center">
+  <img src="./banner.svg" alt="Hệ thống Thương mại Điện tử Doanh nghiệp" width="100%">
+</p>
 
-Đồ án chuyên ngành, Trường Đại học Bách Khoa.
+<p align="center">
+  <img src="https://img.shields.io/badge/Giai_đoạn-Phân_tích_%26_thiết_kế-38bdf8?style=flat-square" alt="Giai đoạn: Phân tích và thiết kế">
+  <img src="https://img.shields.io/badge/Nhận_đề_tài-19.09.2026-818cf8?style=flat-square" alt="Nhận đề tài 19/09/2026">
+  <img src="https://img.shields.io/badge/Thành_viên-3-64748b?style=flat-square" alt="3 thành viên">
+</p>
 
-## Đề tài: Phát triển Hệ thống Thương mại Điện tử Doanh nghiệp
+<p align="center">
+  <a href="#-đề-tài">Đề tài</a> ·
+  <a href="#-công-nghệ">Công nghệ</a> ·
+  <a href="#-tài-liệu-tham-khảo">Tài liệu tham khảo</a> ·
+  <a href="#-thành-viên">Thành viên</a> ·
+  <a href="#-repository">Repository</a> ·
+  <a href="#-tiến-độ">Tiến độ</a>
+</p>
 
-### Mô tả
+## 📖 Đề tài
+
+**Phát triển Hệ thống Thương mại Điện tử Doanh nghiệp** · *Enterprise E-commerce Platform*
+
+### 📌 Mô tả
 
 Đề tài "Phát triển Hệ thống Thương mại Điện tử Doanh nghiệp" hướng tới việc xây dựng một giải pháp phần mềm toàn diện, đáp ứng nhu cầu chuyển đổi số và tối ưu hóa vận hành cho các doanh nghiệp bán lẻ hiện đại. Trong bối cảnh thị trường trực tuyến đòi hỏi sự thích ứng liên tục, một nền tảng có kiến trúc module linh hoạt, hiệu năng cao và khả năng mở rộng tốt là yếu tố then chốt để doanh nghiệp bứt phá và duy trì lợi thế cạnh tranh.
 
@@ -16,7 +33,7 @@ Về mặt công nghệ, dự án ứng dụng các bộ công cụ tiên tiến
 
 Nhìn chung, đề tài cung cấp một hệ sinh thái thương mại điện tử trọn vẹn, không chỉ nâng tầm trải nghiệm mua sắm của người dùng cuối mà còn là công cụ quản trị đắc lực, sẵn sàng chịu tải và vận hành trong môi trường doanh nghiệp thực tế.
 
-### Yêu cầu
+### 🎯 Yêu cầu
 
 Để hiện thực hóa mục tiêu phát triển Hệ thống Thương mại Điện tử Doanh nghiệp một cách toàn diện, quá trình thực hiện dự án được chia thành các nhóm nhiệm vụ cụ thể và liên kết chặt chẽ với nhau. Bước đầu tiên mang tính chất nền tảng là tiến hành khảo sát và phân tích chuyên sâu các quy trình nghiệp vụ kinh doanh. Từ đó, tiến hành xây dựng tài liệu Đặc tả yêu cầu phần mềm (SRS) hoàn chỉnh, bao gồm việc thiết kế chi tiết các biểu đồ Use Case, luồng dữ liệu (DFD), sơ đồ thực thể kết hợp (ERD), cũng như tài liệu REST API Spec theo chuẩn mực OpenAPI/Swagger. Song song với đó, hệ thống UI Design System được thiết kế nhằm đảm bảo tính đồng nhất và tối ưu hóa trải nghiệm người dùng trên toàn hệ thống.
 
@@ -26,7 +43,18 @@ Trọng tâm của đề tài nằm ở nhiệm vụ lập trình và phát tri�
 
 Để nâng cao giá trị thực tiễn, dự án còn thực hiện nhiệm vụ nghiên cứu và tích hợp các công nghệ nâng cao như hệ thống thông báo thời gian thực (Websocket/SSE) và ứng dụng Trợ lý AI để tối ưu dịch vụ tư vấn khách hàng. Cuối cùng, hệ thống sẽ trải qua quá trình kiểm thử tự động nghiêm ngặt (Unit Test, E2E Test), tối ưu hóa bộ đệm và hiệu năng. Sản phẩm hoàn thiện được đóng gói bằng Docker, triển khai lên hạ tầng Kubernetes và tích hợp hệ thống giám sát vận hành Prometheus, Grafana, khép lại bằng việc nghiệm thu và hoàn thiện quyển báo cáo tổng kết chỉn chu nhất.
 
-### Tài liệu tham khảo
+## 🧰 Công nghệ
+
+<table>
+<tr><td><b>Frontend</b></td><td><img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16"> <img src="https://img.shields.io/badge/React_19-087ea4?style=flat-square&logo=react&logoColor=white" alt="React 19"> <img src="https://img.shields.io/badge/Tailwind_CSS_v4-0f172a?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS v4"></td></tr>
+<tr><td><b>Backend</b></td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"> <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Zod-3e67b1?style=flat-square&logo=zod&logoColor=white" alt="Zod"></td></tr>
+<tr><td><b>Dữ liệu</b></td><td><img src="https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white" alt="Redis"></td></tr>
+<tr><td><b>Bảo mật</b></td><td><img src="https://img.shields.io/badge/OAuth2-eb5424?style=flat-square" alt="OAuth2"> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"></td></tr>
+<tr><td><b>Kiểm thử</b></td><td><img src="https://img.shields.io/badge/Cypress-17202c?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"></td></tr>
+<tr><td><b>Vận hành</b></td><td><img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"> <img src="https://img.shields.io/badge/Prometheus-e6522c?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"> <img src="https://img.shields.io/badge/Grafana-f46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"></td></tr>
+</table>
+
+## 📚 Tài liệu tham khảo
 
 1. Vercel. (2026). [Next.js Documentation](https://nextjs.org/docs). Vercel Inc.
 2. Meta. (2026). [React Documentation](https://react.dev/). Meta Platforms, Inc.
@@ -49,17 +77,32 @@ Trọng tâm của đề tài nằm ở nhiệm vụ lập trình và phát tri�
 19. Redis Ltd. (2026). [Redis Documentation and Caching Strategies](https://redis.io/docs/latest/). Redis.
 20. Cypress.io. (2026). [Cypress End-to-End Testing Documentation](https://docs.cypress.io/). Cypress.io.
 
-## Thành viên
+## 👥 Thành viên
 
-[@ThanhNguyenNCT](https://github.com/ThanhNguyenNCT) · [@davidnguyen1802](https://github.com/davidnguyen1802) · [@khoaphunsonac](https://github.com/khoaphunsonac)
+<table>
+<tr>
+<td align="center" width="160"><a href="https://github.com/ThanhNguyenNCT"><img src="https://github.com/ThanhNguyenNCT.png?size=120" width="80" alt="ThanhNguyenNCT"><br><sub><b>@ThanhNguyenNCT</b></sub></a></td>
+<td align="center" width="160"><a href="https://github.com/davidnguyen1802"><img src="https://github.com/davidnguyen1802.png?size=120" width="80" alt="davidnguyen1802"><br><sub><b>@davidnguyen1802</b></sub></a></td>
+<td align="center" width="160"><a href="https://github.com/khoaphunsonac"><img src="https://github.com/khoaphunsonac.png?size=120" width="80" alt="khoaphunsonac"><br><sub><b>@khoaphunsonac</b></sub></a></td>
+</tr>
+</table>
 
-## Repository
+## 🗂️ Repository
 
 | Repo | Nội dung |
 |---|---|
-| [Documents](https://github.com/DA-EC-System/Documents) | Tài liệu phân tích, thiết kế |
-| [Report](https://github.com/DA-EC-System/Report) | Báo cáo đồ án (LaTeX) |
+| 📄 [**Documents**](https://github.com/DA-EC-System/Documents) | Tài liệu phân tích, thiết kế |
+| 📝 [**Report**](https://github.com/DA-EC-System/Report) | Báo cáo đồ án (LaTeX) |
 
-## Tiến độ
+## 🚦 Tiến độ
 
-Nhận đề tài 19/09/2026. Đang ở giai đoạn phân tích nghiệp vụ và viết báo cáo. Chưa có code.
+| Giai đoạn | Trạng thái |
+|---|---|
+| Khảo sát, phân tích nghiệp vụ, SRS, UI Design System | 🔵 Đang làm |
+| Kiến trúc nền (Base Architecture) | ⚪ Chưa bắt đầu |
+| Phân hệ nghiệp vụ | ⚪ Chưa bắt đầu |
+| Thông báo thời gian thực, Trợ lý AI | ⚪ Chưa bắt đầu |
+| Kiểm thử, Docker, Kubernetes, giám sát | ⚪ Chưa bắt đầu |
+| Nghiệm thu, báo cáo tổng kết | ⚪ Chưa bắt đầu |
+
+<sub>Nhận đề tài 19/09/2026 · Cập nhật 28/09/2026</sub>

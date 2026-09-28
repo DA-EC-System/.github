@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Hệ thống Thương mại Điện tử Doanh nghiệp">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.55" stop-color="#11203d"/>
+      <stop offset="1" stop-color="#1d3a6e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="300" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <circle cx="1050" cy="60" r="190" fill="#818cf8" fill-opacity="0.10"/>
+    <circle cx="1130" cy="250" r="120" fill="#38bdf8" fill-opacity="0.10"/>
+
+    <!-- icon: shopping bag + box -->
+    <g transform="translate(930 92)" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M10 40h100l-8 86H18z"/>
+      <path d="M36 40V28a24 24 0 0 1 48 0v12"/>
+      <path d="M130 70l44-18 44 18v52l-44 18-44-18z"/>
+      <path d="M130 70l44 18 44-18M174 88v52"/>
+    </g>
+
+    <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+      <rect x="64" y="62" width="6" height="40" rx="3" fill="url(#accent)"/>
+      <text x="86" y="92" fill="#94a3b8" font-size="20" font-weight="600" letter-spacing="3">ĐỒ ÁN CHUYÊN NGÀNH</text>
+      <text x="64" y="160" fill="#f8fafc" font-size="46" font-weight="700">Hệ thống Thương mại Điện tử</text>
+      <text x="64" y="214" fill="#f8fafc" font-size="46" font-weight="700">Doanh nghiệp</text>
+      <text x="64" y="256" fill="#7dd3fc" font-size="22" font-weight="500">Enterprise E-commerce Platform</text>
+    </g>
+  </g>
+</svg>
