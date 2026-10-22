@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Nhận_đề_tài-19.09.2026-818cf8?style=flat-square" alt="Nhận đề tài 19/09/2026">
-  <img src="https://img.shields.io/badge/Thành_viên-3-64748b?style=flat-square" alt="3 thành viên">
+  <img src="https://img.shields.io/badge/Thành_viên-4-64748b?style=flat-square" alt="4 thành viên">
 </p>
 
 <p align="center">
@@ -82,6 +82,7 @@ Trọng tâm của đề tài nằm ở nhiệm vụ lập trình và phát tri�
 <td align="center" width="160"><a href="https://github.com/ThanhNguyenNCT"><img src="https://github.com/ThanhNguyenNCT.png?size=120" width="80" alt="ThanhNguyenNCT"><br><sub><b>@ThanhNguyenNCT</b></sub></a></td>
 <td align="center" width="160"><a href="https://github.com/davidnguyen1802"><img src="https://github.com/davidnguyen1802.png?size=120" width="80" alt="davidnguyen1802"><br><sub><b>@davidnguyen1802</b></sub></a></td>
 <td align="center" width="160"><a href="https://github.com/khoaphunsonac"><img src="https://github.com/khoaphunsonac.png?size=120" width="80" alt="khoaphunsonac"><br><sub><b>@khoaphunsonac</b></sub></a></td>
+<td align="center" width="160"><a href="https://github.com/binhvu284"><img src="https://github.com/binhvu284.png?size=120" width="80" alt="binhvu284"><br><sub><b>@binhvu284</b></sub></a></td>
 </tr>
 </table>
 
